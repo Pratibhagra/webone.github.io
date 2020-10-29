@@ -1,0 +1,666 @@
+
+
+
+
+body{
+    background-color:red;
+	font-size: 16px;
+
+font-family: 'Open Sans', sans-serif;
+
+   
+    vertical-align: baseline;
+    line-height: 26px;
+    font-weight: 400;
+    overflow-x: hidden;
+    margin:0px;
+    padding: 0px;
+     
+}
+
+#section1{
+    color:#ffffff;
+}
+
+#section2{
+   
+}
+
+/*----search button----*/
+
+/*search box css start here*/
+.search-sec{
+    
+}
+
+.wrn-btn{
+    width:100px;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: capitalize;
+    height: calc(3rem + 2px) !important;
+    border-radius:0;
+}
+
+#section5, #section7, #section4{
+    margin-top: 90px;
+
+}
+
+ #section5 .elementor1{
+    display: inline-block;
+ }
+
+ #section5 .row{
+
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+ }
+
+#section5 span{
+    color: #ffffff;
+}
+
+
+ #section7 {
+
+    background-color: #4D4D4D;
+ }
+
+ #section7 .col-md-6 img{
+    background-color: #ffffff;
+    margin:20px;
+    margin-bottom: 60px;
+    
+    
+ }
+
+ #section7 p{
+    margin-top: 30px;
+    color: #ffffff;
+    font-size: 30px;
+    
+}
+
+
+   
+
+#section9{
+    background-color: #4D4D4D;
+    margin-top: 120px;
+    margin-bottom: 120px;
+ }
+
+#section9 a p{
+    padding: 0px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+}
+ #section9 .row p{
+    border-radius: 4px;
+    color: #ffffff;
+    
+    background-color:#000000;
+ }
+
+ #section10 .row img{
+    
+    width: 650px;
+ }
+
+ #section10 .row .col-md-6{
+    margin-top: px;
+    margin-left:-4px;
+    margin-bottom: 120px;
+ }
+
+#section11 {
+   
+    padding: 0px;
+    background-color: transparent;
+    background-color: #4D4D4D;
+    /*background-image: linear-gradient(180deg, #dffff6 0%, #eefde9 100%);  icon color #228B22;*/
+ }
+
+ #section11 .elementor1-footer{
+    display: inline-block;
+ }
+
+ #newsletter{
+    padding-bottom: 70px;
+    background-color: #4D4D4D;
+ }
+
+
+ #newsletter .newsletter-headeing{
+    display: inline-block;
+ }
+
+ #newsletter a{
+    text-decoration: none;
+ }
+
+ 
+
+
+/* Style the search field */
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+  margin-top: 20px;
+}
+
+/* Style the submit button */
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #CF0B25;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+form.example button:hover {
+  background: green;
+}
+
+/* Clear floats */
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+#footer{
+    padding:0px;
+
+    background-color: ;
+}
+
+#footer h5{
+    margin-left: 50px;
+    font-size: 1.25rem;
+    color: #ffffff;
+    font-weight: 1000;
+    overflow-wrap: break-word;
+        margin-bottom:0px;
+    font-family: inherit;
+    display: ;
+        line-height: 1.2;
+}
+
+#footer img{
+    margin-top: 40px;
+    margin-left: 50px;
+
+}
+
+#footer .img2{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+#footer .img3{
+    margin-left: 16px;
+    margin-top: 0px;
+}
+
+#footer .col-md-2  ul li{
+    list-style: none;
+    list-style-position: inside;
+}
+
+#footer p{
+    color:#ffffff;
+}
+
+#footer .col-md-2 ul li a{ 
+    text-decoration: none;
+    margin-left: -40px;
+    color: #ffffff;
+    cursor: pointer;
+    line-height: 2.5rem;
+
+}
+
+#footer-last{
+    background-color: #000000;
+    padding: 22px;
+}
+
+#footer-last p{
+    color: #ffffff;
+    text-align: center;
+}
+
+#footer-last p a{
+    text-decoration: none;
+}
+
+.col-md-10 .dropdown-item:hover{
+background-color: #4D4D4D;
+}
+
+
+/*---------vegitablenew------*/
+
+#main-section{
+   margin-top: 50px;
+   padding: 20px;
+
+}
+
+#main-section .vegcol-one{
+position: relative;
+
+
+}
+
+
+  #main-section .vegcol-one .vegcontent-one{
+    position: absolute;
+    float: right;
+  
+
+  }
+#main-section .container .row .vegcol-one .row .vegimg-one img{
+   
+    border-radius: 20px;
+    float: left;
+}
+
+    .wrapper{
+        width: 80%;
+        margin: 100px auto;
+        background:;
+        display: flex;
+    }
+
+    .veg-team{
+        width: 50%;
+        float: left;
+        margin: 15px;
+        box-shadow: 0 2px 20px rgba(0,0,0,0.8);
+        padding: 15px;
+        background:#000000;
+        border-radius: 20px;
+    }
+
+    .veg-team img{
+       
+        border-radius: 5%;
+        float: left;
+        margin: 0px 2px 30px 0;
+        
+    }
+
+    .veg-team h3{
+        color: #FF6A00;
+        text-transform: uppercase;
+        
+    }
+
+    .veg-team p{
+        color: #ffffff;
+    }
+
+
+
+
+.wrapper1{
+        width: 50%;
+        margin:10px;
+        background:;
+        display: flex;
+        background-color:;
+    }
+
+    .sin1{
+        width: 100%;
+        float: left;
+        margin: -10px;
+        box-shadow: 0 2px 0px rgba(0,0,0,0.2);
+        padding: 2px;
+        background:;
+        border-radius: 5px;
+    }
+
+    .sin1 p{
+       color: #ffffff;
+        border-radius: 5%;
+        float: left;
+        margin: 10px 5px;
+        font-size: 14px;
+
+        
+    }
+
+    .sin1 button{
+        color: #000000;
+        font-size: 12px;
+        margin: 2px 2px;
+        border: 2px solid #F5A627;
+        background-color: #F5A627;
+        border-radius: 2px;
+        
+    }
+
+
+    /*----Qty section---*/
+
+    .wrapper2{
+        width: 50%;
+        margin:10px;
+        background:;
+        display: flex;
+        background-color:;
+    }
+
+    .sin2{
+        width: 100%;
+        float: left;
+        margin-left: -20px;
+        box-shadow: 0 2px 0px rgba(0,0,0,0.2);
+        padding: 2px;
+        background:;
+        border-radius: 5px;
+    }
+
+    .sin2 p{
+       color: #ffffff;
+        border-radius: 5%;
+        float: left;
+        margin: 10px 20px;
+        font-size: 14px;
+
+        
+    }
+
+    .sin2 button{
+        color: #000000;
+        font-size: 12px;
+        margin: 10px 10px;
+        border: 2px solid #4D4D4D;
+        background-color: #4D4D4D;
+        border-radius: 2px;
+        width: 30px;
+        
+    }
+
+         .wrapper2 .sin2 .qty-int{
+                color: #ffffff;
+            }
+    
+
+/*-------membership page-----*/
+
+            
+        .container .row .category-button {
+            position: sticky;
+        }
+        
+         .card-container .card .card-body h4{
+
+            font-family: CANDARA;
+            color: #000000;
+            font-size: 13pt;
+            font-weight: bold;
+            letter-spacing: 2px;
+            
+        }
+
+        .card-container .card .card-body p{
+            font-size: 7pt;
+            color: #000000;
+            font-family: CALIBRI;
+            font-weight: bolder;
+            line-height: 10px;
+        }
+
+        .card-container .card .card-body .row .col-sm-4 a{
+            color: #ffffff;
+            font-family: calibri;
+            font-size: 7pt;
+            background-color: #00A859;
+            border: none;
+            width:80px;
+            border-radius: 7px;
+        }
+
+        .card-container .card .card-body .row .col-sm-4 span{
+            color: #000000;
+            font-family: calibri;
+            font-size: 7pt;
+            
+            border: none;
+        }
+
+        .card-container .card{
+            background-image: url(imgnew/copper-bg.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: none;
+        }
+
+        .card-container .silver-card{
+            background-image: url(imgnew/silver-bg.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: none;
+        }
+
+        .card-container .gold-card{
+            background-image: url(imgnew/gold-bg.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: none;
+        }
+
+        .card-container .platinum-card{
+            background-image: url(imgnew/platinum-bg.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: none;
+        }
+
+         .card-container .emerald-card{
+            background-image: url(imgnew/emerald-bg.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: none;
+        }
+    
+/*-------End membership page-----*/
+
+/*------signup page----*/
+
+      .modal-dialog .modal-content .signup-form{
+        padding: 20px;
+      }
+
+    .modal-dialog .modal-content .signup-form input, textarea{
+        margin-top: 20px;
+        height: 38px;
+        width: 190px;
+        padding-left: 10px;
+        font-size: 16px;
+        border:2px solid silver;
+        border-radius: 10px;
+    
+    }
+
+     .modal-dialog .modal-content .signup-form  textarea{
+        margin-top: 20px;
+        height: 58px;
+        width: 250px;
+        padding-left: 10px;
+        font-size: 16px;
+        border:2px solid silver;
+        border-radius: 10px;
+    
+    }
+
+    .modal-dialog .modal-content .signup-form .lastname, .password2, .mobile    {
+        margin-left: 55px;
+    }
+
+    .modal-dialog .modal-content .signup-form .lastname,
+    .modal-dialog .modal-content .signup-form .email,
+     .modal-dialog .modal-content .signup-form .mobile, 
+    .modal-dialog .modal-content .signup-form .password,
+   .modal-dialog .modal-content .signup-form .password2,
+    {
+        margin-top: 20px;
+        width: 410px;
+        border-radius: 20px;
+    }  
+
+    .modal-dialog .modal-content .signup-form .birthday{
+        margin-top: 20px;
+        font-size: 16px;
+        font-weight: bold;
+        color: grey;
+    }
+
+    .modal-dialog .modal-content .signup-form .birth-date{
+        margin-top: 5px;
+    }
+
+    .modal-dialog .modal-content .signup-form .month,
+    .modal-dialog .modal-content .signup-form .day,
+    .modal-dialog .modal-content .signup-form .year{
+        height: 30px;
+        border-radius: 10px;
+        width: 100px;
+    }
+
+    .modal-dialog .modal-content .signup-form .day,
+    .modal-dialog .modal-content .signup-form .year{
+        margin-left: 10px;
+    }
+
+  
+
+.modal-dialog .modal-content .signup-form input[type="radio"]{
+    height: 15px;
+    margin-left: -50px;
+    margin-top: -10px;
+
+}
+
+.modal-dialog .modal-content .signup-form input[value="female"]{
+    margin-left: -100px;
+
+}
+
+    .modal-dialog .modal-content .signup-form .font{
+        margin-left: 57px;
+        margin-top: -27px;
+    }
+
+    .modal-dialog .modal-content .signup-form .font2{
+        margin-left: 150px;
+         margin-top: -43px;
+    }
+
+     .modal-dialog .modal-content .signup-form .agreement{
+        margin-top: 10px;
+        margin-left:px;
+        font-size: 12px;
+        width: 400px;
+        color: #ffffff;
+        line-height: 20px;
+     }
+
+      .modal-dialog .modal-content .signup-form .signup{
+        margin-top: 20px;
+
+        height: 38px;
+        width: 170px;
+        color: white;
+        font-size: 20px;
+        font-weight: 600;
+        border: 1px solid #006117;
+        border-radius: 20px;
+        cursor: pointer;
+        outline: none;
+        background: linear-gradient(#6fad5a, #66a150, #60974c);
+      }
+
+      .modal-dialog .modal-content .signup-form .signup:hover{
+       background: linear-gradient(#74b85e, #598B45); 
+      }
+
+       .modal-dialog .modal-content .signup-form .login{
+        margin-top: 20px;
+
+        height: 38px;
+        width: 170px;
+        color: white;
+        font-size: 20px;
+        font-weight: 600;
+        border: 1px solid red;
+        border-radius: 20px;
+        cursor: pointer;
+        outline: none;
+        background-color: #ED1D24;
+      }
+
+      .modal-dialog .modal-content .signup-form .login:hover{
+       background-color:#ED1D24;; 
+      }
+
+/*----End signup page----*/
+
+
+/*-----Blog page-----*/
+
+
+.comments-link a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.comments-link a{
+  color: #00A859;    
+}
+
+.entry-title a {
+color:
+}
+
+.enrty-content{
+    color: white;
+}
+
+.author-name, .time{
+color: black;
+
+}
+.entry-title a{
+color: #FF6A00;
+}
+/*-----End Blog page-----*/
+
+
+
+
+
+
+
